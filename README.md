@@ -4,9 +4,9 @@ The purpose of this assignment was to create a web-page that had a responsive de
 
 What you'll find:
 
-- About me page
+- About me
 - Portfolio
-- Contact me page
+- Contact me
 
 ### Links
 
